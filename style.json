@@ -75,15 +75,6 @@
       }
     },
     {
-      "id": "dojo",
-      "type": "fill",
-      "source": "dojo",
-      "source-layer": "dojo",
-      "paint": {
-        "fill-color": "rgba(67, 206, 17, 0.5)"
-      }
-    },
-    {
       "id": "dojo-A1",
       "type": "fill",
       "source": "dojo",
@@ -9025,6 +9016,5 @@
         "fill-color": "rgba(255, 255, 255, 0.5)"
       }
     }
-  ],
-  "id": "jlzl1vvgh"
+  ]
 }
