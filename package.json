@@ -1,0 +1,24 @@
+{
+  "name": "dojo-style",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/dojo-style.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/dojo-style/issues"
+  },
+  "homepage": "https://github.com/hfu/dojo-style#readme",
+  "dependencies": {
+    "config": "^2.0.1",
+    "hjson": "^3.1.1"
+  }
+}

@@ -82,6 +82,8948 @@
       "paint": {
         "fill-color": "rgba(67, 206, 17, 0.5)"
       }
+    },
+    {
+      "id": "dojo-A1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "A1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 255, 253, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-A1j1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "A1j1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 255, 252, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-A1j2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "A1j2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 255, 251, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-A1j3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "A1j3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 255, 250, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-A2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "A2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 255, 249, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-A2i1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "A2i1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 255, 248, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-A2i3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "A2i3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 255, 247, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(0, 0, 1, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 0, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e1w1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e1w1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 2, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e1w2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e1w2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 4, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 6, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 0, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e2w1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e2w1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 2, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e2w2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e2w2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 4, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e2x2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e2x2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 6, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e2y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e2y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 8, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 0, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e3w1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e3w1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 2, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e3w2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e3w2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 4, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e3x2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e3x2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 6, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e3y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e3y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 8, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 0, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e4w1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e4w1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 2, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e4w2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e4w2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 4, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e4x2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e4x2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 6, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-B1e4y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "B1e4y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 8, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(76, 0, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1a3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1a3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(78, 0, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1a3p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1a3p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(78, 2, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1a3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1a3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(78, 4, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1a3y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1a3y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(78, 6, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1b1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1b1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(80, 0, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1b1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1b1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(80, 2, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1b1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1b1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(80, 4, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1b1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1b1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(80, 6, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1b2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1b2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(82, 0, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1b2p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1b2p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(82, 2, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1b2p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1b2p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(82, 4, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1b2y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1b2y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(82, 6, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1e5",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1e5"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(84, 0, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1e5p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1e5p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(84, 2, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1e5p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1e5p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(84, 4, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1e5y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1e5y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(84, 6, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(86, 0, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(86, 2, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(86, 4, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-C1z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "C1z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(86, 6, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 163, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1a3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1a3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 163, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1a3w3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1a3w3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 165, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1a3w4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1a3w4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 167, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1a3y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1a3y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 169, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1h3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1h3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 163, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1h3p3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1h3p3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 165, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1h3w4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1h3w4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 167, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1h3w5",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1h3w5"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 169, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1h3y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1h3y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 171, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1h4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1h4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 163, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1h4p3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1h4p3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 165, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1h4y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1h4y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 167, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 163, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1z1p3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1z1p3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 165, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1z1w4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1z1w4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 167, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1z1w5",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1z1w5"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 169, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D1z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D1z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 171, 77, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 160, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2e6",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2e6"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 160, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2e6v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2e6v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 158, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2e6y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2e6y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 156, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2h1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2h1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 160, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2h1x4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2h1x4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 158, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2h1v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2h1v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 156, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2h1v4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2h1v4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 154, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 160, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 158, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 156, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2z1v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2z1v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 154, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D2z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D2z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 152, 122, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(205, 78, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3d1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3d1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(207, 78, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3d1v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3d1v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(207, 80, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3d1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3d1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(207, 82, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3d2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3d2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(209, 78, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3d2p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3d2p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(209, 80, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3d2v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3d2v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(209, 82, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3d2y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3d2y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(209, 84, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3e6",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3e6"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(211, 78, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3e6v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3e6v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(211, 80, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3e6y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3e6y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(211, 82, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3h1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3h1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(213, 78, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3h1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3h1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(213, 80, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3h1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3h1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(213, 82, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3h1x4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3h1x4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(213, 84, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3h1v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3h1v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(213, 86, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3h1v4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3h1v4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(213, 88, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(215, 78, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(215, 80, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(215, 82, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3z1v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3z1v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(215, 84, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3z1x4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3z1x4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(215, 86, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D3z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D3z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(215, 88, 55, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(206, 135, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4h1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4h1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(208, 135, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4h1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4h1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(208, 137, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4h1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4h1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(208, 139, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4h1x4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4h1x4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(208, 141, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4h1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4h1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(208, 143, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4h4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4h4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(210, 135, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4h4p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4h4p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(210, 137, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4h4p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4h4p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(210, 139, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4h4x4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4h4x4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(210, 141, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4h4y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4h4y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(210, 143, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(212, 135, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(212, 137, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(212, 139, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4z1x4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4z1x4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(212, 141, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D4z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D4z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(212, 143, 64, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(137, 90, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5c1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5c1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(139, 90, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5c1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5c1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(139, 92, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5c1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5c1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(139, 94, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5c1w4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5c1w4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(139, 96, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5c1v2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5c1v2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(139, 98, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5c1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5c1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(139, 100, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5h1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5h1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(141, 90, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5h1v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5h1v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(141, 92, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5h1v4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5h1v4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(141, 94, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5h4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5h4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(143, 90, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5h4p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5h4p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(143, 92, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5h4p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5h4p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(143, 94, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5h4y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5h4y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(143, 96, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(145, 90, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(145, 92, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(145, 94, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5z1w4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5z1w4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(145, 96, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5z1v1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5z1v1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(145, 98, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5z1v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5z1v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(145, 100, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D5z1v4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D5z1v4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(145, 102, 68, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(138, 69, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6c1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6c1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(136, 69, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6c1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6c1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(136, 71, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6c1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6c1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(136, 73, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6c1w4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6c1w4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(136, 75, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6c1v1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6c1v1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(136, 77, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6c1v2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6c1v2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(136, 79, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6c1v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6c1v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(136, 81, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6c1v4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6c1v4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(136, 83, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6d1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6d1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(134, 69, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6d1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6d1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(134, 71, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6d1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6d1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(134, 73, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6d1v1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6d1v1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(134, 75, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6d1v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6d1v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(134, 77, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6d1v4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6d1v4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(134, 79, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6d2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6d2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(132, 69, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6d2p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6d2p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(132, 71, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6d2v1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6d2v1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(132, 73, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6d2v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6d2v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(132, 75, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6d2v4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6d2v4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(132, 77, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(130, 69, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(130, 71, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(130, 73, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h1p3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h1p3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(130, 75, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h1v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h1v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(130, 77, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h1v4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h1v4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(130, 79, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(128, 69, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h2p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h2p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(128, 71, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h2p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h2p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(128, 73, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h2p3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h2p3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(128, 75, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h2v5",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h2v5"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(128, 77, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h2y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h2y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(128, 79, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(126, 69, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h4p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h4p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(126, 71, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h4p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h4p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(126, 73, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h4p3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h4p3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(126, 75, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6h4y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6h4y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(126, 77, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(124, 69, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(124, 71, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(124, 73, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6z1p3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6z1p3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(124, 75, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6z1v3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6z1v3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(124, 77, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-D6z1v4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "D6z1v4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(124, 79, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(115, 0, 76, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E1j4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E1j4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(117, 0, 76, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E1j4p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E1j4p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(117, 2, 76, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E1j4p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E1j4p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(117, 4, 76, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E1j4y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E1j4y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(117, 6, 76, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E1z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E1z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(119, 0, 76, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E1z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E1z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(119, 2, 76, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E1z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E1z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(119, 4, 76, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E1z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E1z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(119, 6, 76, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(168, 0, 132, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E2j4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E2j4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(170, 0, 132, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E2j4p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E2j4p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(170, 2, 132, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E2j4p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E2j4p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(170, 4, 132, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E2j4y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E2j4y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(170, 6, 132, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E2z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E2z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(172, 0, 132, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E2z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E2z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(172, 2, 132, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E2z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E2z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(172, 4, 132, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E2z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E2z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(172, 6, 132, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(230, 0, 169, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E3j4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E3j4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(232, 0, 169, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E3j4p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E3j4p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(232, 2, 169, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E3j4p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E3j4p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(232, 4, 169, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E3j4y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E3j4y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(232, 6, 169, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E3z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E3z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(234, 0, 169, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E3z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E3z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(234, 2, 169, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E3z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E3z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(234, 4, 169, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-E3z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "E3z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(234, 6, 169, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(0, 112, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1a3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1a3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 112, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1a3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1a3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 114, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1a3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1a3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 116, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1a3t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1a3t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 118, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1a3t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1a3t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 120, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1a5",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1a5"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 112, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1a5p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1a5p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 114, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1a5t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1a5t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 116, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1a5t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1a5t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 118, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1b3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1b3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 112, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1b3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1b3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 114, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1b3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1b3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 116, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1b3t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1b3t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 118, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1b3t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1b3t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 120, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1j6",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1j6"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 112, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1j6p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1j6p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 114, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1j6y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1j6y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 116, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(10, 112, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(10, 114, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1z1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1z1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(10, 116, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1z1t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1z1t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(10, 118, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F1z1t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F1z1t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(10, 120, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(3, 15, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(5, 15, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(5, 17, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(5, 19, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a1t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a1t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(5, 21, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a1t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a1t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(5, 23, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(7, 15, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a2p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a2p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(7, 17, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a2t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a2t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(7, 19, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a2t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a2t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(7, 21, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a2t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a2t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(7, 23, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a6",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a6"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(9, 15, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a6p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a6p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(9, 17, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a6t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a6t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(9, 19, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a6t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a6t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(9, 21, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2a6t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2a6t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(9, 23, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2e6",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2e6"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(11, 15, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2e6t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2e6t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(11, 17, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2e6t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2e6t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(11, 19, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2e6t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2e6t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(11, 21, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2h3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2h3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(13, 15, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2h3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2h3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(13, 17, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2h3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2h3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(13, 19, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2h3t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2h3t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(13, 21, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2j7",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2j7"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(15, 15, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2j7t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2j7t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(15, 17, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F2j7y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F2j7y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(15, 19, 255, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(0, 3, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3a5",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3a5"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 3, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3a5p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3a5p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 5, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3a5t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3a5t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 7, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3a5t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3a5t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 9, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3a7",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3a7"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 3, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3a7p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3a7p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 5, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3a7t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3a7t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 7, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3a7t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3a7t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 9, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3a7t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3a7t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 11, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3d3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3d3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 3, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3d3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3d3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 5, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3d3y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3d3y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 7, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3e6",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3e6"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 3, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3e6p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3e6p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 5, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3e6t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3e6t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 7, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3e6t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3e6t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 9, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3h3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3h3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(10, 3, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3h3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3h3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(10, 5, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3h3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3h3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(10, 7, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3h3t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3h3t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(10, 9, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3j7",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3j7"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(12, 3, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3j7t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3j7t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(12, 5, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3j7y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3j7y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(12, 7, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(14, 3, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(14, 5, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3z1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3z1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(14, 7, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3z1t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3z1t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(14, 9, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F3z1t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F3z1t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(14, 11, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(0, 132, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4a3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4a3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 132, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4a3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4a3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 134, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4a3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4a3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 136, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4a3t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4a3t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 138, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4a3t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4a3t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 140, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4c1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4c1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 132, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4c1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4c1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 134, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4c1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4c1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 136, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4c1t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4c1t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 138, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4c1t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4c1t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 140, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4h3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4h3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 132, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4h3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4h3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 134, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4h3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4h3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 136, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4h3t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4h3t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 138, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4h3t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4h3t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(6, 140, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 132, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 134, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4z1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4z1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 136, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4z1t2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4z1t2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 138, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F4z1t4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F4z1t4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(8, 140, 168, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F5",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F5"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(0, 169, 230, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F5a3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F5a3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 169, 230, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F5a3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F5a3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 171, 230, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F5a3y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F5a3y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(2, 173, 230, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F5z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F5z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 169, 230, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F5z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F5z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 171, 230, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-F5z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "F5z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(4, 173, 230, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 0, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1a3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1a3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 0, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1a3p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1a3p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 2, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1a3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1a3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 4, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1a3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1a3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 6, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1a3t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1a3t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 8, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1b1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1b1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 0, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1b1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1b1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 2, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1b1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1b1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 4, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1b1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1b1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 6, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1b1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1b1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 8, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1c1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1c1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 0, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1c1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1c1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 2, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1c1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1c1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 4, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1c1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1c1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 6, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1c1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1c1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 8, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1h3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1h3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 0, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1h3p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1h3p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 2, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1h3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1h3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 4, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1h3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1h3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 6, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1h3t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1h3t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 8, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1j5",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1j5"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(245, 0, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1j5p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1j5p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(245, 2, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1j5p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1j5p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(245, 4, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1j5t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1j5t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(245, 6, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1j5t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1j5t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(245, 8, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1k1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1k1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(243, 0, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1k1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1k1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(243, 2, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1k1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1k1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(243, 4, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1k1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1k1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(243, 6, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1k1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1k1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(243, 8, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(241, 0, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(241, 2, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(241, 4, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1z1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1z1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(241, 6, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G1z1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G1z1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(241, 8, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 115, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2a3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2a3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 115, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2a3p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2a3p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 117, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2a3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2a3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 119, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2a3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2a3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 121, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2a3t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2a3t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 123, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2b1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2b1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 115, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2b1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2b1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 117, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2b1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2b1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 119, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2b1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2b1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 121, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2b1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2b1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 123, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2c1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2c1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 115, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2c1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2c1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 117, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2c1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2c1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 119, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2c1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2c1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 121, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2c1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2c1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 123, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2h3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2h3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 115, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2h3p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2h3p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 117, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2h3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2h3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 119, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2h3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2h3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 121, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2h3t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2h3t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 123, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2j5",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2j5"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(245, 115, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2j5p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2j5p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(245, 117, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2j5p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2j5p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(245, 119, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2j5t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2j5t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(245, 121, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2j5t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2j5t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(245, 123, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2k1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2k1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(243, 115, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2k1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2k1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(243, 117, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2k1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2k1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(243, 119, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2k1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2k1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(243, 121, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2k1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2k1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(243, 123, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2k2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2k2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(241, 115, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2k2p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2k2p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(241, 117, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2k2p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2k2p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(241, 119, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2k2t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2k2t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(241, 121, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2k2t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2k2t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(241, 123, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(239, 115, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(239, 117, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(239, 119, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2z1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2z1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(239, 121, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-G2z1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "G2z1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(239, 123, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(115, 255, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1c3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1c3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(117, 255, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1c3p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1c3p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(117, 253, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1c3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1c3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(117, 251, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1c3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1c3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(117, 249, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1c3t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1c3t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(117, 247, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1e5",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1e5"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(119, 255, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1e5p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1e5p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(119, 253, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1e5p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1e5p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(119, 251, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1e5t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1e5t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(119, 249, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1e5t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1e5t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(119, 247, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1h3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1h3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(121, 255, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1h3p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1h3p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(121, 253, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1h3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1h3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(121, 251, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1h3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1h3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(121, 249, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1h3t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1h3t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(121, 247, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(123, 255, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(123, 253, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(123, 251, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1z1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1z1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(123, 249, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H1z1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H1z1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(123, 247, 223, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(163, 255, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2a4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2a4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(165, 255, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2a4p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2a4p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(165, 253, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2a4p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2a4p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(165, 251, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2a4t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2a4t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(165, 249, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2a4t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2a4t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(165, 247, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2b4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2b4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(167, 255, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2b4p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2b4p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(167, 253, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2b4p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2b4p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(167, 251, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2b4t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2b4t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(167, 249, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2b4t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2b4t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(167, 247, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2c1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2c1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(169, 255, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2c1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2c1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(169, 253, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2c1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2c1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(169, 251, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2c1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2c1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(169, 249, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2c1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2c1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(169, 247, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2h3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2h3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(171, 255, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2h3p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2h3p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(171, 253, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2h3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2h3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(171, 251, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2h3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2h3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(171, 249, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2h3t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2h3t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(171, 247, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(173, 255, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(173, 253, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(173, 251, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2z1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2z1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(173, 249, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-H2z1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "H2z1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(173, 247, 115, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(34, 140, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1a3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1a3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(36, 140, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1a3p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1a3p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(36, 142, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1a3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1a3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(36, 144, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1a3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1a3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(36, 146, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1a3t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1a3t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(36, 148, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1c1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1c1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(38, 140, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1c1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1c1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(38, 142, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1c1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1c1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(38, 144, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1c1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1c1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(38, 146, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1c1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1c1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(38, 148, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1d4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1d4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(40, 140, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1d4p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1d4p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(40, 142, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1d4p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1d4p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(40, 144, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1d4t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1d4t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(40, 146, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1d4t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1d4t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(40, 148, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1h3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1h3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(42, 140, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1h3p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1h3p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(42, 142, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1h3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1h3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(42, 144, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1h3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1h3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(42, 146, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1h3t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1h3t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(42, 148, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1i1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1i1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(44, 140, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1i1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1i1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(44, 142, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1i1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1i1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(44, 144, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1i1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1i1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(44, 146, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1i1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1i1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(44, 148, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1j8",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1j8"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(46, 140, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1j8p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1j8p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(46, 142, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1j8p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1j8p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(46, 144, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1j8t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1j8t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(46, 146, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1j8t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1j8t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(46, 148, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1k2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1k2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(48, 140, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1k2p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1k2p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(48, 142, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1k2p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1k2p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(48, 144, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1k2t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1k2t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(48, 146, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1k2t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1k2t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(48, 148, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1k3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1k3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(50, 140, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1k3p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1k3p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(50, 142, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1k3p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1k3p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(50, 144, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1k3t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1k3t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(50, 146, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1k3t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1k3t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(50, 148, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(52, 140, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1z1p1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1z1p1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(52, 142, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1z1p2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1z1p2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(52, 144, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1z1t1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1z1t1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(52, 146, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-I1z1t3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "I1z1t3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(52, 148, 34, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(211, 181, 141, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J1a3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J1a3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(213, 181, 141, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J1a3w3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J1a3w3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(213, 183, 141, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J1a3w4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J1a3w4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(213, 185, 141, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J1a3y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J1a3y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(213, 187, 141, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J1z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J1z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(215, 181, 141, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J1z1p3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J1z1p3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(215, 183, 141, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J1z1w4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J1z1w4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(215, 185, 141, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J1z1w5",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J1z1w5"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(215, 187, 141, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J1z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J1z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(215, 189, 141, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(238, 216, 175, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J2a3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J2a3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(240, 216, 175, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J2a3y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J2a3y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(240, 218, 175, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J2f2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J2f2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(242, 216, 175, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J2f2y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J2f2y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(242, 218, 175, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J2z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J2z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(242, 220, 175, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J2z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J2z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(242, 222, 175, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(204, 204, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J3a3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J3a3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(206, 204, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J3a3y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J3a3y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(206, 206, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J3f2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J3f2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(208, 204, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J3f2x3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J3f2x3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(208, 206, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J3f2y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J3f2y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(208, 208, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J3z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J3z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(210, 204, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J3z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J3z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(210, 206, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 255, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4f1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4f1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 255, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4f1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4f1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(253, 253, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4f2",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4f2"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 255, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4f2x3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4f2x3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 253, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4f2y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4f2y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(251, 251, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4f3",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4f3"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 255, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4f3x1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4f3x1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 253, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4f3y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4f3y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(249, 251, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4f4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4f4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 255, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4f4y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4f4y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(247, 253, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(245, 255, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-J4z1y1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "J4z1y1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(245, 253, 0, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-Z1",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "Z1"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 255, 254, 0.5)"
+      }
+    },
+    {
+      "id": "dojo-Z4",
+      "type": "fill",
+      "source": "dojo",
+      "source-layer": "dojo",
+      "filter": [
+        "all",
+        [
+          "==",
+          "code",
+          "Z4"
+        ]
+      ],
+      "paint": {
+        "fill-color": "rgba(255, 255, 255, 0.5)"
+      }
     }
   ],
   "id": "jlzl1vvgh"

@@ -1,0 +1,4 @@
+{
+  style: src/style.json
+  rgb: ./src/figureRGB.js
+}
