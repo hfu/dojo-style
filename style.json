@@ -24,7 +24,8 @@
         "https://maps.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png"
       ],
       "minzoom": 0,
-      "maxzoom": 18
+      "maxzoom": 18,
+      "attribution": "地理院"
     }
   },
   "glyphs": "https://hfu.github.io/fonts/{fontstack}/{range}.pbf",
