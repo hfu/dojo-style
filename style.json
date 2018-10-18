@@ -15,7 +15,7 @@
         "https://vectortiles.xyz/zxy/dojo/{z}/{x}/{y}"
       ],
       "minZoom": 10,
-      "maxzoom": 12,
+      "maxzoom": 13,
       "attribution": "農業・食品産業技術総合研究機構農業環境変動研究センター"
     },
     "pale": {
